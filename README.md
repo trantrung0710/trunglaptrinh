@@ -22,5 +22,5 @@
 
 ## Donate tại:
 - Agribank: 4608215027863(Tran Van Hung)
-- Chụp hình thẻ CÀO điện thoại và gửi về Email:  trunglaptrinh2009@gmail.com
+- Chụp hình thẻ CÀO điện thoại và gửi về Email:  <code>trunglaptrinh2009@gmail.com</code>
 - PlayDuo: <code>https://playerduo.com/page612631609836594462f09f03</code>
