@@ -3,7 +3,7 @@
 <p align="center"><code>Hay còn gọi là TrungLapTrinh</code></p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=th1nhhdk&label=Lượt+xem+profile:" alt="luotxemprofile"></p>
 
-<p align="center">Chào <code>:V</code></p>
+<p align="center">Hello, Mình là <code>Trung</code> hiện tại đang là thành viên của CF4 Community và là <code>Coder 2k9</code></p>
 
 ## Thông tin:
 ### Thuộc về:
