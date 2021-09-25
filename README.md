@@ -11,6 +11,7 @@
 
 ### IDE chính:
 - ![VsCode](https://tx3developers.github.io/png/vscode.html)
+
 ### Ngôn ngữ lập trình:
 - ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
