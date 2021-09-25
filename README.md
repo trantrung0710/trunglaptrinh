@@ -10,7 +10,7 @@
 - <a href="https://tx3developers.github.io/diutap/">DiuTap</a>
 
 ### IDE chính:
-- ![VsCode](https://tx3developers.github.io/png/vscode.html)
+- <p><img src="https://tx3developers.github.io/png/vscode.html"></p>
 
 ### Ngôn ngữ lập trình:
 - ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
