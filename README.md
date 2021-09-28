@@ -1,13 +1,13 @@
 <p align="center"><img src="images/trung.jpg" width="100" height="100" alt="trung.jpg"></p>
 <p align="center">Tx3Developers</p>
-<p align="center"><code>Hay còn gọi là TrungLapTrinh</code></p>
+<p align="center"><code>Idol lớp 7A1</code></p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=th1nhhdk&label=Lượt+xem+profile:" alt="luotxemprofile"></p>
 
 <p align="center">Hello, Mình là <code>Trung</code> hiện tại đang là thành viên của CF4 Community và là <code>Coder 2k9</code></p>
 
 ## Thông tin:
 ### Thuộc về:
-- <a href="https://tx3developers.github.io/diutap/">DiuTap</a>
+- <a href="https://trunglaptrinh.github.io/diutap-github-io/">DiuTap</a>
 
 ### IDE chính:
 - <p><img src="./images/vscode.jpg" width="67" height="20"></p>
