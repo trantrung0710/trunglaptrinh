@@ -7,7 +7,7 @@
 
 ## Thông tin:
 ### Thuộc về:
-- <a href="https://trunglaptrinh.github.io/diutap-github-io/">DiuTap</a>
+- <code><a href="https://trunglaptrinh.github.io/diutap-github-io/">DiuTap</a></code>
 
 ### IDE chính:
 - <p><img src="./images/vscode.jpg" width="67" height="20"></p>
