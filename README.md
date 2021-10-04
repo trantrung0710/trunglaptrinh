@@ -1,28 +1,43 @@
-<p align="center"><img src="images/trung.jpg" width="100" height="100" alt="trung.jpg"></p>
-<p align="center">Tx3Developers</p>
-<p align="center"><code>Idol lớp 7A1</code></p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=th1nhhdk&label=Lượt+xem+profile:" alt="luotxemprofile"></p>
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=5865F2&height=120&fontAlignY=25&section=header&fontAlign=25&animation=twinkling&text=Welcome%20to%20my%20GitHub%20profile!&fontSize=24&fontColor=fff)](#)
 
-<p align="center">Hello, Mình là <code>Trung</code> hiện tại đang là thành viên của CF4 Community và là <code>Coder 2k9</code></p>
+## About me 👀
+```javascript
+let nguyenntdev = {
+  name: "Trần Trí Trung",
+  birthday: 2009,
+  emailContact: "trunglaptrinh2009@gmail.com",
+  facebook: "Trần Trung",
+  from: "Kode",
+  school: "Luong Van Chanh Secondary School"
+}
+```
 
-## Thông tin:
-### Thuộc về:
-- <code><a href="https://trunglaptrinh.github.io/diutap-github-io/">DiuTap</a></code>
+<details>
+  <summary>Skills</summary>
+  
+### Languages & Frameworks
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### IDE chính:
-- <p><img src="./images/vscode.jpg" width="67" height="20"></p>
+### IDE
+![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### Ngôn ngữ lập trình:
-- ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+### Version Control
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  
+### Operating System
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
-## Liên lạc:
-- FaceBook: <code>https://www.facebook.com/Tx3Developers</code>
-- FanPage: <code>https://www.facebook.com/trunglaptrinh0710</code>
-- Discord: <code>trunglaptrinh#4192</code>
-- Email: <code>trunglaptrinh2009@gmail.com</code>
+ ### Office
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-## Donate tại:
-- Agribank: 4608215027863(Tran Van Hung)
-- Chụp hình thẻ CÀO điện thoại và gửi về Email:  <code>trunglaptrinh2009@gmail.com</code>
-- PlayDuo: <code>https://playerduo.com/page612631609836594462f09f03</code>
+  
+</details>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=5865F2&height=120&fontAlignY=75&section=footer&fontAlign=25&animation=twinkling&text=That%27s%20all,%20have%20a%20good%20day!&fontSize=24&fontColor=fff)
