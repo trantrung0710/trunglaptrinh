@@ -2,11 +2,11 @@
 
 ## About me 👀
 ```javascript
-let nguyenntdev = {
+let tx3developers = {
   name: "Trần Trí Trung",
   birthday: 2009,
   emailContact: "trunglaptrinh2009@gmail.com",
-  facebook: "Trần Trung",
+  facebook: "tx3developers",
   from: "Kode",
   school: "Luong Van Chanh Secondary School"
 }
