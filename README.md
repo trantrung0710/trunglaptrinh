@@ -17,7 +17,7 @@ let tx3developers = {
   
 <h2>Contact me (>人<)</h2>
 <br>
-<p><a href="https://www.facebook.com/Tx3developers" target="_blank"><img src="https://img.shields.io/badge/Facebook%20-%231DA1F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/></a> <a href="https://discord.com" target="_blank"><img src="https://img.shields.io/badge/VuNguyen%235055%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>  
+<p><a href="https://www.facebook.com/Tx3developers" target="_blank"><img src="https://img.shields.io/badge/Facebook%20-%231DA1F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/></a></p>  
  
 ### Languages & Frameworks
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
