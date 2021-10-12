@@ -20,7 +20,7 @@ let tx3developers = {
 <p><a href="https://www.facebook.com/Tx3developers" target="_blank"><img src="https://img.shields.io/badge/Facebook%20-%231DA1F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/></a></p>  
   
 ## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ooAkira&&langs_count=10&theme=radical&hide=html&layout=compact)](https://www.github.com/ooAkira)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trunglaptrinh&&langs_count=10&theme=radical&hide=html&layout=compact)](https://www.github.com/trunglaptrinh)
  
 ### Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
